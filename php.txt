@@ -1,4 +1,6 @@
 <!php>
 	$a; ="Hello word";
 	echo "$a";
+	$b; ="selamat datang";
+	echo "$b";
 ?>
